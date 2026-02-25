@@ -77,7 +77,7 @@ const justin = {
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=justintyf01&theme=tokyonight&hide_border=true)]
+![Justin's GitHub Stats](images/userstats.svg)
 
 </div>
 
