@@ -62,22 +62,11 @@ const justin = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Justin's GitHub Stats](github-readme-stats.png)
-
-</div>
-
-
----
-
 ## 🔥 Streak
 
 <div align="center">
 
-![Justin's GitHub Stats](images/userstats.svg)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=justintyf01&theme=tokyonight&hide_border=true)]
 
 </div>
 
