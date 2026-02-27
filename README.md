@@ -2,7 +2,7 @@
 
 # Hey there, I'm Justin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-🇸🇬 Based in Singapore &nbsp;•&nbsp; 🤖 ML enthusiast &nbsp;•&nbsp; ☁️ Cloud Solution Architecture
+🇸🇬 Based in Singapore &nbsp;•&nbsp; 🤖 AI/ML enthusiast &nbsp;•&nbsp; ☁️ Cloud Solution Architecture
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cloud+%26+Engineer;ML+Enthusiast;Always+learning%2C+always+shipping+🚀)](https://git.io/typing-svg)
 
